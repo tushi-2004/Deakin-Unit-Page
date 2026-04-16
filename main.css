@@ -15,5 +15,10 @@ p {
   font-size: 14px;
   font-family: Arial
 }
-
+div {
+  background-color: rgb(73, 185, 236);
+  text-align: right;
+  height: 120px;
+  padding: 10px;
+}
 
